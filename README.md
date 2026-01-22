@@ -1,2 +1,2 @@
 # webdev_lab1
-getting starts
+getting start
